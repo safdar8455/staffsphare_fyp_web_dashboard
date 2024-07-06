@@ -1,0 +1,14 @@
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Ems.BusinessTracker.DataAccess.Common.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Ems.BusinessTracker.DataAccess.Common.pdb
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Ems.BusinessTracker.Common.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\log4net.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\Ems.BusinessTracker.Common.pdb
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\bin\Release\log4net.xml
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\obj\Release\Ems.BusinessTracker.DataAccess.Common.csproj.AssemblyReference.cache
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\obj\Release\Ems.BusinessTracker.DataAccess.Common.csproj.CoreCompileInputs.cache
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\obj\Release\Ems.BusinessTracker.DataAccess.Common.csproj.CopyComplete
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\obj\Release\Ems.BusinessTracker.DataAccess.Common.dll
+E:\my-gitlab-repository\ems-web\Ems.BusinessTracker.DataAccess.Common\obj\Release\Ems.BusinessTracker.DataAccess.Common.pdb

@@ -1,0 +1,20 @@
+C:\Users\Safdar Hussain\Downloads\Compressed\codecanyon-29913356-ems-employee-management-system-admin-panel-android-ios\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.AssemblyReference.cache
+C:\Users\Safdar Hussain\Downloads\Compressed\codecanyon-29913356-ems-employee-management-system-admin-panel-android-ios\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\bin\Debug\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\bin\Debug\Ems.BusinessTracker.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\bin\Debug\log4net.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\bin\Debug\log4net.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.AssemblyReference.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.Busi.03732650.Up2Date
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\bin\Debug\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\bin\Debug\Ems.BusinessTracker.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\bin\Debug\log4net.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\bin\Debug\log4net.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.AssemblyReference.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.csproj.CoreCompileInputs.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\obj\Debug\Ems.Busi.03732650.Up2Date
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Ems.BusinessTracker.Common\obj\Debug\Ems.BusinessTracker.Common.pdb

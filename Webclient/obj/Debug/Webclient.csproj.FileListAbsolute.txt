@@ -1,0 +1,144 @@
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Areas\AttendanceTracking\Reports\EmployeeQrCodeReport.rdlc
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Areas\AttendanceTracking\Reports\Report2.rdlc
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Webclient.dll.config
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Webclient.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Webclient.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Antlr3.Runtime.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.Core.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.AttendanceTracking.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Excel.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\ExcelDataReader.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\itextsharp.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\log4net.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Data.Edm.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Data.OData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Practices.Unity.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Newtonsoft.Json.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\QRCoder.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Net.Http.Formatting.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Spatial.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Helpers.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Http.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Http.OData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Http.WebHost.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Mvc.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Optimization.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.Razor.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.WebPages.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\WebGrease.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\WebMatrix.Data.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\WebMatrix.WebData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.BusinessTracker.DataAccess.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.AttendanceTracking.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.BusinessTracker.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\log4net.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Newtonsoft.Json.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\System.Net.Http.Formatting.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\bin\Ems.BusinessTracker.DataAccess.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\obj\Debug\Webclient.csproj.AssemblyReference.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\obj\Debug\Webclient.csproj.CoreCompileInputs.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\obj\Debug\Webclient.csproj.Up2Date
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\obj\Debug\Webclient.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\ems-web_source_code\Webclient\obj\Debug\Webclient.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Areas\AttendanceTracking\Reports\EmployeeQrCodeReport.rdlc
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Areas\AttendanceTracking\Reports\Report2.rdlc
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Webclient.dll.config
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Webclient.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Webclient.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Antlr3.Runtime.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.Core.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.AttendanceTracking.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.BusinessTracker.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Excel.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\ExcelDataReader.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\itextsharp.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\log4net.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Data.Edm.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Data.OData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Practices.Unity.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Newtonsoft.Json.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\QRCoder.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Net.Http.Formatting.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Spatial.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Helpers.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Http.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Http.OData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Http.WebHost.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Mvc.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Optimization.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.Razor.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.WebPages.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Web.WebPages.Razor.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\WebGrease.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\WebMatrix.Data.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\WebMatrix.WebData.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.BusinessTracker.DataAccess.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.AttendanceTracking.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.BusinessTracker.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\log4net.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Newtonsoft.Json.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\System.Net.Http.Formatting.xml
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\bin\Ems.BusinessTracker.DataAccess.Common.pdb
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\obj\Debug\Webclient.csproj.AssemblyReference.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\obj\Debug\Webclient.csproj.CoreCompileInputs.cache
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\obj\Debug\Webclient.csproj.Up2Date
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\obj\Debug\Webclient.dll
+C:\Users\Safdar Hussain\Desktop\Test project files\StaffSphare Project\StaffSphare web\Webclient\obj\Debug\Webclient.pdb
